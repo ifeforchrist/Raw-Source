@@ -1,8 +1,8 @@
-# Ugo Stocks Website
+# Raw Source Website
 
 A modern and responsive website for Ugo Stocks — showcasing stocks, services, and brand identity.
 
-**Live Website:** https://ifeforchrist.github.io/ugo-stocks-website/
+**Live Website:** https://ifeforchrist.github.io/Raw-Source/
 
 ### Features
 - Responsive design (mobile & desktop)
